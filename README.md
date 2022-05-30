@@ -3,13 +3,13 @@
 
 ##
 
-- 🌱 Atualmente estou estudando **C++ (Programação Orientada a Objetos), C (Estrutura de Dados) e Java**
+- 🌱 Atualmente estou estudando: C++ (Programação Orientada a Objetos), C (Estrutura de Dados) e Java
 
-- 💬 Sobre mim: **Estou sempre disposto a aprender coisas novas e colaborar com a comunidade desenvolvedora.**
+- 💬 Sobre mim: Estou sempre disposto a aprender coisas novas e colaborar com a comunidade desenvolvedora
 
 - 📫 Email: **franbezerran@gmail.com**
 
-- 📄 Tenho experiência com **Python, C++, C e Teoria dos Grafos**
+- 📄 Tenho experiência com: Python, C++, C e Teoria dos Grafos
 
 ##
 
