@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Francisco!</h1>
 <h3 align="center">Estudante de Engenharia e amante de programação</h3>
 
+##
 
 - 🌱 Atualmente estou estudando **C++ (Programação Orientada a Objetos), C (Estrutura de Dados) e Java**
 
@@ -10,15 +11,13 @@
 
 - 📄 Tenho experiência com [Python, C++, C e Teoria dos Grafos](Python, C++, C e Teoria dos Grafos)
 
-
+##
 
 <div align="center">
   <a href="https://github.com/Fran0212">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fran0212&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fran0212&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-Skills
   
   ##
  
