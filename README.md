@@ -9,7 +9,7 @@
 
 - 📫 Email: **franbezerran@gmail.com**
 
-- 📄 Tenho experiência com [Python, C++, C e Teoria dos Grafos](Python, C++, C e Teoria dos Grafos)
+- 📄 Tenho experiência com **Python, C++, C e Teoria dos Grafos**
 
 ##
 
